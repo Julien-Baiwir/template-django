@@ -1,1 +1,1 @@
-# template-django
+# test intégration template bootstrap
